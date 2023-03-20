@@ -1,8 +1,8 @@
 {
     "name": "omnibus/omnibus-bundle",
     "type": "symfony-bundle",
-    "description": ".well-known directory integration for Symfony",
-    "keywords": ["symfony", "ux", "crisp"],
+    "description": "",
+    "keywords": ["symfony"],
     "homepage": "https://symfony.com",
     "license": "LGPL-3.0-or-later",
     "authors": [
