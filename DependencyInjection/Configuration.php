@@ -14,7 +14,7 @@ class Configuration implements ConfigurationInterface
      */
     public function getConfigTreeBuilder(): TreeBuilder
     {
-        $this->treeBuilder = new TreeBuilder('well_known');
+        $this->treeBuilder = new TreeBuilder('omnibus');
 
         $rootNode = $this->treeBuilder->getRootNode();
         $this->addGlobalOptionsSection($rootNode);
